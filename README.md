@@ -12,3 +12,4 @@ The supported activation functions ReLU, sigmoid, tanh, and softmax. Note that s
 
 _Note: The code was originally implemented in Google Colab. Thus, it uses an import from google.colab to link a Google Drive. Make sure to remove that if you are not using Colab._
 
+Link to code in Google Colab: https://colab.research.google.com/drive/17MMTGaiTvg_7iUeKUSPf608Ceu74ai4S#scrollTo=i5DUSQDWwuiY
