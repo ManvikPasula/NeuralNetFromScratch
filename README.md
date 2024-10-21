@@ -10,3 +10,5 @@ The code is situated as such:
 
 The supported activation functions ReLU, sigmoid, tanh, and softmax. Note that softmax must be paired with cross-entropy loss and should only be used on the last layer. The supported regularization is L2 Regularization, with dropout on its way. The supported loss functions are MSE and cross-entropy. Note that cross-entropy must be paired with the softmax activation function in the last layer.
 
+_Note: The code was originally implemented in Google Colab. Thus, it uses an import from google.colab to link a Google Drive. Make sure to remove that if you are not using Colab._
+
